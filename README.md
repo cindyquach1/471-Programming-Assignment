@@ -1,9 +1,13 @@
 # 471-Programming-Assignment
 
 Cindy Quach
+
 Justin Nguyen - 
+
 Ryan Teoh - teohr@csu.fullerton.edu
+
 Ivan Tu - ivanstar@csu.fullerton.edu
+
 Marco Botello - marco.botello@csu.fullerton.edu
 
 Language used - Python2
