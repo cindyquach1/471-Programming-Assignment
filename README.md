@@ -2,7 +2,7 @@
 
 Cindy Quach
 
-Justin Nguyen - 
+Justin Nguyen - hoangjustin@csu.fullerton.edu
 
 Ryan Teoh - teohr@csu.fullerton.edu
 
